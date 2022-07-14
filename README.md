@@ -2,7 +2,8 @@
 
 # Portfolio
 
-This is a website about 
+This is the webiste for AMIA NLP Pre-Symposium 2022
+
 ## Built With
 
 - HTML
