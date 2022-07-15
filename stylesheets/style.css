@@ -577,6 +577,10 @@ a {
   font-weight: 900;
 }
 
+.sponsors a {
+  color: grey
+}
+
 /* Copyright section */
 .copyright {
   display: flex;
