@@ -527,7 +527,7 @@ a {
 
 .guests1 p {
   text-align: left;
-  padding-left: 50px;
+  /* padding-left: 50px; */
   width: 90%;
   /* color: #d3d3d3; */
   word-break: break-word;
@@ -547,14 +547,14 @@ a {
 }
 .guests1 h4 {
   text-align: left;
-  padding-left: 50px;
+  /* padding-left: 50px; */
   width: 90%;
   color: #272a31;
 
 }
 .guests1 h5 {
   text-align: left;
-  padding-left: 50px;
+  /* padding-left: 50px; */
   width: 90%;
   color: #272a31;
 
