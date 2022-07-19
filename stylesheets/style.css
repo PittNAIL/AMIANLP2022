@@ -460,7 +460,7 @@ a {
 /* Desktop version of the events section */
 @media only screen and (min-width: 768px) {
   .events1 {
-    width: fit-content;
+    /* width: fit-content; */
   }
 
   .events1 h3 {
@@ -514,16 +514,27 @@ a {
 
 /* Mobile version of the guests section */
 .guests1 {
+
   display: flex;
   flex-direction: column;
-  align-items: None;
+  /* background-color: #ffffff; */
   font-family: "Lato", sans-serif;
-  padding: 0 10px 40px 10px;
+  align-items: center;
+  /* background-image: url(../src/main-bg.png); */
+  background-repeat: repeat;
   padding-top: 70px;
-  width: 100%;
 }
+
+.guests1 p {
+  text-align: left;
+  padding-left: 50px;
+  width: 90%;
+  /* color: #d3d3d3; */
+  word-break: break-word;
+}
+
 .guests1 h2 {
-  margin: 30px 0 0 0;
+  /* margin: 0 50px 0 0; */
   color: #272a31;
   text-align: center;
 }
@@ -535,13 +546,16 @@ a {
   align-self: center;
 }
 .guests1 h4 {
-  padding-left: 50px;
   text-align: left;
+  padding-left: 50px;
+  width: 90%;
   color: #272a31;
 
 }
 .guests1 h5 {
-  /* padding-left: 50px; */
+  text-align: left;
+  padding-left: 50px;
+  width: 90%;
   color: #272a31;
 
 }
