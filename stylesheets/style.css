@@ -411,7 +411,7 @@ a {
 /* Desktop version of the events section */
 @media only screen and (min-width: 768px) {
   .events {
-    width: fit-content;
+    /* width: fit-content; */
   }
 
   .events h3 {
