@@ -535,8 +535,8 @@ a {
   align-self: center;
 }
 .guests1 h4 {
-  /* padding-left: 50px; */
-  text-align: center;
+  padding-left: 50px;
+  text-align: left;
   color: #272a31;
 
 }
@@ -547,8 +547,9 @@ a {
 }
 .guests1 ul {
   display: table;
-  margin: 0 auto;
-  text-align: left;
+  padding-left: 50px;
+  /* margin: 0 auto;
+  padding: 0 10px 40px 10px; */
 }
 
 /* Mobile version of the guests section */
